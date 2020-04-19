@@ -1,0 +1,19 @@
+{
+  "name": "raphael-220014841",
+  "version": "1.0.0",
+  "description": "this is an employee todo list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tall and wears glasses",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
